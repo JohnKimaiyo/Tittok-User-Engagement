@@ -12,4 +12,4 @@ We explore Tiktok data to gain insights on the below
 
 5. The Average Video Comments Count
 
-6  he relationship between Video duration and View Count
+6.  The relationship between Video duration and View Count
