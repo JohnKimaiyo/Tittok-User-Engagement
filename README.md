@@ -1,6 +1,6 @@
-Tititok User Enagement Insgits
+Tititok User Engagement Insights
 
-We explore Tiktok data to gain inghts on the below
+We explore Tiktok data to gain insights on the below
 
 1. The Average Video Count
 
@@ -10,6 +10,6 @@ We explore Tiktok data to gain inghts on the below
 
 4. The Average Video Download Count
 
-5. Average Video Comments Count
+5. The Average Video Comments Count
 
 6  he relationship between Video duration and View Count
